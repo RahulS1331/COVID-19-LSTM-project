@@ -18,3 +18,5 @@ This project involves the analysis and prediction of COVID-19 daily deaths using
 ```bash
 git clone https://github.com/YourUsername/COVID19-LSTM-Project.git
 cd COVID19-LSTM-Project
+
+https://github.com/user-attachments/assets/e04f805e-8cde-48e0-b838-6a1275b954b6
